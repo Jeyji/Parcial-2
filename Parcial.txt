@@ -1,0 +1,25 @@
+Parcial Programación Orientada a Objetos
+
+1.) Basado en el concepto de interface indique cuales de los siguientes enunciados son ciertos.
+
+Rta/
+	b. Una interface puede extender uno o más interfaces.
+	d. Una clase abstracta puede extender una interface.
+
+2.) Qué es una clase abstracta. En qué se diferencia una clase abstracta de una clase normal y una clase abstracta de una interface.
+
+Rta/
+Una clase abstracta es aquella que espesifica una funcionalidad comun a otras clases pero que no es completa por lo que se deben heredar de forma obligatoria a estas clases para que estas completen la información con las caracteristicas de cada una de ellas.
+
+Se diferencia de una clase normal, en que esta por si sola no representa nada, es decir, sin otras clases que imlementen sus metodos, esta clase no tendria sentido, mientras una clase normal tiene sentido por si sola ya que cunata con atributos definidos.
+
+Una clase abstract se diferencia de una interfz en que la interfaz en que la interfaz solo usa metodos abstractos, mientras la clase abstracta puede tener metodos concretos, además la interfaces no tiene relacion directa de herencia con una clase en si, ellas se definen de manera independiente cosa que no ocurre con las clases abstractas.
+
+3.)Suponga que la clase Sub Exteniente de la clase Sándwich. Cuál de los siguientes bestamentos son válidos.
+	Sandwich x = new Sandwich ();
+	Sub y = new Sub ();
+Rta/
+	b. y=x.
+	c. y = new Sandwich ();
+
+4.)Es el archhivo llamado Punto4.jar

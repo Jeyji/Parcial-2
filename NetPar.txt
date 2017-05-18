@@ -1,0 +1,12 @@
+WebGallery
+Registro
+Para registarse coloque los siguientes datos:
+Nombre
+ 
+Apellido
+ 
+Si es artista coloque los siguientes datos:
+Informacion de Curriculum
+ 
+Distinciones Obtenios:
+ 
